@@ -1,3 +1,14 @@
+<h1> Sorting visualiser using React </h1>
+<h3>Live Demo :https://sorting-visualiser-react.netlify.app/ </h3>
+
+<p>
+  <b> Run in your local <b> <br>
+git clone https://github.com/Priyalakshmi26/sorting-visualizer.git <br>
+npm install (after navigating inside the directory) <br>
+npm start <br>
+  </p>
+  
+ </p>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
